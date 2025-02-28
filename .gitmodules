@@ -1,0 +1,3 @@
+[submodule "karuta-deck-template"]
+	path = karuta-deck-template
+	url = https://github.com/anim-int/karuta-deck-template.git
