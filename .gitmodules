@@ -1,0 +1,3 @@
+[submodule "darki"]
+	path = darki
+	url = https://github.com/superdarki/karuta-deck-darki/
