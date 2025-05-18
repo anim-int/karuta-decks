@@ -1,4 +1,8 @@
 [submodule "darki"]
 	path = darki
-	url = https://github.com/superdarki/karuta-deck-darki/
+	url = https://github.com/superdarki/karuta-deck-darki
+	branch = main
+[submodule "vieux dragon"]
+	path = vieux-dragon
+	url = https://github.com/anim-int/karuta-deck-vieux-dragon
 	branch = main
