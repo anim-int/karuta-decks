@@ -6,3 +6,7 @@
 	path = vieux-dragon
 	url = https://github.com/anim-int/karuta-deck-vieux-dragon
 	branch = main
+[submodule "vieux noir"]
+	path = vieux-noir
+	url = https://github.com/anim-int/karuta-deck-vieux-noir
+	branch = main
