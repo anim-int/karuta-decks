@@ -10,3 +10,6 @@
 	path = vieux-noir
 	url = https://github.com/anim-int/karuta-deck-vieux-noir
 	branch = main
+[submodule "loulou"]
+	path = loulou
+	url = https://github.com/anim-int/deck-loulou.git
