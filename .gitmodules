@@ -13,3 +13,6 @@
 [submodule "loulou"]
 	path = loulou
 	url = https://github.com/anim-int/deck-loulou.git
+[submodule "ceriseuh"]
+	path = ceriseuh
+	url = https://github.com/Wassim1703/karutadeck.git
