@@ -18,4 +18,4 @@
 	url = https://github.com/Wassim1703/karutadeck.git
 [submodule "rootcan"]
 	path = rootcan
-	url = https://github.com/tornac1234/karuta-deck.git
+	url = https://github.com/tornac1234/karuta-deck
