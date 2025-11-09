@@ -19,3 +19,6 @@
 [submodule "rootcan"]
 	path = rootcan
 	url = https://github.com/tornac1234/karuta-deck
+[submodule "saywess"]
+	path = saywess
+	url = https://github.com/SayWess/karuta-deck-saywess
