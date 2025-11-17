@@ -24,4 +24,4 @@
 	url = https://github.com/SayWess/karuta-deck-saywess
 [submodule "andinox"]
 	path = andinox
-	url = git@github.com:andinox/karuta-decks.git
+	url = https://github.com/andinox/karuta-decks
