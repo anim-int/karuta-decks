@@ -25,3 +25,7 @@
 [submodule "andinox"]
 	path = andinox
 	url = https://github.com/andinox/karuta-decks
+[submodule "crafteurmax"]
+	path = crafteurmax
+	url = https://gitlab.com/animint/decks/deck-crafteurmax
+	branch = main
