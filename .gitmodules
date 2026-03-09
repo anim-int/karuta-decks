@@ -1,18 +1,18 @@
 [submodule "darki"]
 	path = darki
-	url = https://github.com/superdarki/karuta-deck-darki
+	url = https://gitlab.com/animint/decks/karuta-deck-darki
 	branch = main
 [submodule "vieux dragon"]
 	path = vieux-dragon
-	url = https://github.com/anim-int/karuta-deck-vieux-dragon
+	url = https://gitlab.com/animint/decks/karuta-deck-vieux-dragon
 	branch = main
 [submodule "vieux noir"]
 	path = vieux-noir
-	url = https://github.com/anim-int/karuta-deck-vieux-noir
+	url = https://gitlab.com/animint/decks/karuta-deck-vieux-noir
 	branch = main
 [submodule "loulou"]
 	path = loulou
-	url = https://github.com/anim-int/deck-loulou.git
+	url = https://gitlab.com/animint/decks/deck-loulou
 [submodule "ceriseuh"]
 	path = ceriseuh
 	url = https://github.com/Wassim1703/karutadeck.git
